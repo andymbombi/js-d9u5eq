@@ -21,6 +21,14 @@ body {
   margin: 30px;
   height: 250px
 }
+.image3{
+  width: 25%;
+  background-image: url('https://weeplay.media/wp-content/uploads/2019/09/801x410_neymar_paris.jpg');
+  background-size: 120%;
+  background-repeat: no-repeat;
+  margin: 30px;
+  height: 250px
+}
 
 a:link,	a:visited {
   background-color: white;
